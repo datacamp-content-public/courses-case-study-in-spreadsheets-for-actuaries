@@ -40,3 +40,16 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Life Annuities
+
+```yaml
+type: VideoExercise
+key: 2167cea89f
+xp: 50
+```
+
+`@projector_key`
+0c56268edc947c0a11946f7bfd7b8c02
